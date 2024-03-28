@@ -1,13 +1,13 @@
 
 #Question1
 lunes = {'Mercure':0,'Vénus':0,'Terre':1,'Mars':2}
-lunes['Jupyter']='63'
-lunes['Saturne']='61'
-lunes['Uranus']='27'
-lunes['Neptune']='11'
+lunes['Jupyter']=63
+lunes['Saturne']=61
+lunes['Uranus']=27
+lunes['Neptune']=11
 
 #Question2a
-lunes['Neptune']='13'
+lunes['Neptune']=13
 print(lunes)
 
 #Question2b
