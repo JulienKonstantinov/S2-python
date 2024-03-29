@@ -24,3 +24,6 @@ file2.write(str(read[:-1])+","+str(len(read)-1)+"\n")
 while(read!='') :
     read = file.readline()
     file2.write(str(read[:-1])+","+str(len(read)-1)+"\n")
+
+file.close()
+file2.close()
