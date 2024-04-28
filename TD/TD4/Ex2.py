@@ -10,7 +10,7 @@ file.close()
 file = open("/Users/julienkonstantinov/Documents/UVSQ/Cours_L1/INFORMATIQUE/Semestre 2/LSIN200N/S2-python/TD/TD4/prenoms.txt", 'r')
 read = file.readline()
 print(read[:-1],",",len(read)-1)
-while(read!='') :
+while(read!=''):
     read = file.readline()
     print(read[:-1],",",len(read)-1)
     

@@ -11,7 +11,7 @@ def rechercher(table,entier):
     else:
         return False
 
-rechercher(table_hachage,20)
+print(rechercher(table_hachage,20))
 
 #Question2
 def ajouter(table,entier):
